@@ -1,0 +1,126 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    color: #333333;
+}
+
+.secao {
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.paragrafo {
+    width: 800px;
+    max-width: 100%;
+    margin: 20px auto;
+    font-size: 18px;
+    line-height: 30px;
+}
+
+.topo {
+    background-color: #e6d9c6;
+}
+
+.logo {
+    width: 150px;
+}
+
+.menu a {
+    color: #3e3026;
+    margin: 0 12px;
+    font-size: 18px;
+    line-height: 35px;
+}
+
+.banner {
+    width: 900px;
+    max-width: 100%;
+}
+
+h1 {
+    font-size: 30px;
+    margin-top: 40px;
+}
+
+h2 {
+    font-size: 22px;
+    font-weight: normal;
+    color: #795b3e;
+}
+
+h3 {
+    font-size: 24px;
+    margin-bottom: 25px;
+}
+
+.imagem {
+    width: 300px;
+    max-width: 100%;
+}
+
+.destaque {
+    color: #795b3e;
+    font-weight: bold;
+}
+
+.servicos {
+    background-color: #594333;
+    color: #ffffff;
+}
+
+.lista-servicos {
+    width: 230px;
+    max-width: 80%;
+    margin: 25px auto;
+    text-align: left;
+    font-size: 18px;
+    line-height: 35px;
+}
+
+.sobre h3 {
+    color: #795b3e;
+}
+
+.imagem-sobre {
+    width: 350px;
+    max-width: 100%;
+}
+
+.contato {
+    background-color: #594333;
+    color: #ffffff;
+}
+
+iframe {
+    max-width: 100%;
+    border: 0;
+}
+
+.aviso {
+    max-width: 800px;
+    margin: 15px auto;
+    font-size: 14px;
+    line-height: 22px;
+    color: #ecdfcd;
+}
+
+.lista-contato {
+    padding: 0;
+    list-style: none;
+}
+
+.lista-contato li {
+    margin: 16px 0;
+}
+
+.lista-contato a {
+    background-color: #ffffff;
+    color: #594333;
+    padding: 8px 12px;
+    display: inline-block;
+    border-radius: 4px;
+}
+
+a:hover {
+    text-decoration: none;
+}
